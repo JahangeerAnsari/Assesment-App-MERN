@@ -1,0 +1,43 @@
+body {
+  background-color: gainsboro;
+}
+
+.header-row {
+  background-color: white;
+  margin-top: 50px;
+  padding: 30px 100px;
+}
+.main-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user-email {
+  font-size: 18px;
+}
+.add-assement {
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  background-color: turquoise;
+  color: white;
+  padding: 9px 22px;
+  border-radius: 23px;
+  text-decoration: none;
+}
+
+.add-assement:hover {
+  text-decoration: none;
+  color: red;
+}
+.assement-list {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.assement-list h2 {
+  color: turquoise;
+}
+.assement-list h4 {
+  font-size: 5px;
+}

@@ -1,0 +1,15 @@
+  
+  body {
+    background-color: gainsboro;
+  }
+  ul{
+    list-style-type:none;
+    }
+  .questions-page ul {
+    
+    font-size: 20px;
+    
+  }
+  .questions-page ul  li {
+   font-size: 15px;
+  }

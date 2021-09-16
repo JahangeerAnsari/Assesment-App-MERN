@@ -1,0 +1,12 @@
+.header-row {
+    background-color: white;
+    margin-top: 50px;
+    padding: 30px 100px;
+    flex-direction: row;
+  }
+  
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  width: 100%;
+}
